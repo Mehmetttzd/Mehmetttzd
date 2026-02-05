@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Yazdkhasti</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Yazdkhasti</h1>
 <h3 align="center">Software Engineer & AI/ML Developer | I build intelligent, scalable systems where software meets machine learning</h3>
 
 <p align="center">
