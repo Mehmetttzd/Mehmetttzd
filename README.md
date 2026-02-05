@@ -2,29 +2,24 @@
 <h3 align="center">Software Engineer & AI/ML Developer | I build intelligent, scalable systems where software meets machine learning</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehmetttzd&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetttzd" />
-</p>
+ Full-Stack Software Engineer & AI/ML Developer | Building production-ready platforms, intelligent backends, and scalable AI systems
+</h3>
 
 ---
 
 ## 🚀 About Me  
 
-- 🔭 I’m currently working on **[Zoning Mini-RAG](https://github.com/Mehmetttzd/Zoning-Mini-RAG)**  
-   > A lightweight RAG project that ingests 67+ pages of NYC zoning regulations and powers a chatbot with precise, citation-backed answers.  
 
-- 👯 I’m looking to collaborate on **AI automation, browser extensions, and RAG pipelines**  
-
-- 🌱 I’m currently learning **Vector Databases (Pinecone, FAISS), React + Three.js, and MIT 18.065 – Matrix Methods for AI**  
-
-- 💬 Ask me about **AI chatbots, FastAPI backends, React/TypeScript, and automation projects**  
-
+- 🔭 Currently building **full-stack, AI-powered platforms** — from backend architecture to production-ready UIs  
+- 🧠 Strong focus on **backend systems, APIs, data pipelines, and AI integration (RAG, automation, analytics)**  
+- 👯 Open to collaborating on **full-stack platforms, AI infrastructure, and automation-heavy systems**  
+- 🌱 Currently deepening knowledge in **Vector Databases, System Design, React + Three.js, and applied ML math (MIT 18.065)**  
+- 💬 Ask me about **FastAPI, React/TypeScript, AI system design, RAG pipelines, and scalable backend architecture**  
 - 📫 Reach me at: **mehmet.z.d80@gmail.com**  
-
 - 👨‍💻 Portfolio: [**www.mehmetportfolio.com**](https://www.mehmetportfolio.com/)  
+- 📄 Resume: [**Check my Resume**](https://www.mehmetportfolio.com/)
 
-- 📄 Resume: [**Check my Resume**](https://www.mehmetportfolio.com/)  
-
-- ⚡ Fun fact: I blend AI with creativity — from chatbots that serve coffee ☕🤖 to interactive 3D resumes 🌍  
+  > I focus on building systems that survive beyond demos — clean architectures, real data flows, and AI that works in production.
 
 ---
 
@@ -39,19 +34,23 @@
 
 ---
 
-### 🔹 [Expense Genie](https://github.com/Mehmetttzd/Expense-Genie)  
-- 📸 OCR-based receipt scanner  
-- 📊 Expense visualization & CSV/PDF export  
-- ⚡ Built with **React, Node.js, MongoDB**  
+### 🔹 DeskIQ  (https://github.com/Mehmetttzd/Expense-Genie)  
+- 🏢 Full-stack internal service desk for HR & IT operations  
+- 🧠 AI-assisted ticket classification, prioritization & summaries  
+- 🔐 Role-based access (Admin, HR, IT, Employee)  
+- 📊 Audit logs, decision tracking & analytics  
+- ⚙️ Built with **FastAPI, React/Next.js, PostgreSQL, Docker, AI pipelines**   
 
 ![Project Demo](https://via.placeholder.com/800x400.png?text=Expense+Genie+Demo)  
 
 ---
 
-### 🔹 [Café RAG Bot](https://github.com/Mehmetttzd/Cafe-RAG-Bot)  
-- 🍵 Ingests café menu CSV → builds embeddings with Ollama  
-- 🤖 Local chatbot for privacy-first Q&A  
-- 🔌 Built with **FastAPI + LlamaIndex**  
+### 🔹 [DecisionVault](https://github.com/Mehmetttzd/decision-vault)  
+- 🧾 Centralized platform for logging AI-assisted decisions  
+- 📉 Drift analytics, risk scoring & performance monitoring  
+- 🔍 Built for explainability, compliance & traceability  
+- 🧠 AI-assisted insights layered on top of structured audit data  
+- ⚙️ Built with **FastAPI, React, PostgreSQL, Docker**   
 
 ![Project Demo](https://via.placeholder.com/800x400.png?text=Cafe+RAG+Bot+Demo)  
 
@@ -68,7 +67,7 @@
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Programming Languages  
+### 👨‍💻 Core Full-Stack & AI Engineering Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
